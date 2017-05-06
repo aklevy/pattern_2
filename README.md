@@ -2,4 +2,6 @@
 
 Pattern with waves moving and changing slowly
 
+![pattern_2 screenshot](/screenshots/screenshot_pattern_2.png)
+
 ![pattern_2 gif](/screenshots/pattern_2_compressed.gif)
